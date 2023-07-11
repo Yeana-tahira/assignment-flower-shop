@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner{
+    padding: 50px 240px 20px 240px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .flower-one{
+    width: 635px;
+}
+
+.text-primary{
+    color: #E55473;
+
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 20px 43px;
+
+}
