@@ -69,6 +69,7 @@ body{
     font-weight: 600;
 }
 
+
 .feature-para{
    
     color: rgba(39, 39, 39, 0.60);
@@ -130,4 +131,172 @@ body{
 
 .three{
     padding-left: 100px;
+}
+
+.hot-deal{
+    margin-top: 200px;
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+
+}
+
+.hot-deal-content{
+    margin-left: 200px;
+    margin-top: 100px;
+    padding-top: 115px;
+    color: #181818;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.hot-deal-heading{
+
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.hot-deal-photo{
+    margin-left: 400px;
+}
+
+.hot-deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.btn2{
+    margin-bottom: 100px;
+    padding-left: 100px;
+}
+
+.insta-para{
+    text-align: center;
+}
+
+.insta-pic{
+    display: flex;
+    padding-left: 75px;
+}
+
+.insta1{
+    
+}
+.insta2{
+    padding-left: 20px;
+}
+.insta3{
+    padding-left: 20px;
+}
+.insta4{
+    padding-left: 20px;
+}
+
+
+.latest{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.deals{
+   
+    background-image: url("../images/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 1440px;
+}
+
+
+
+
+.txt{ 
+   
+    text-align: center;
+}
+
+.inner-txt{
+    
+    text-align: center;
+}
+
+.btn-sub{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 350px;
+    margin-bottom: 50px;
+}
+
+.btn-design1{
+    border-radius: 8px;
+    background: #fdfdfd;
+    color: rgb(253, 250, 250);
+    border: 1px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 15px 230px;
+}
+
+.btn-right{
+    margin-left: 30px;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    border: 0;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 15px 23px;
+
+}
+
+.i{padding-top: 50px;
+    font-size: 40px;
+font-weight: 800;
+}
+
+.p1{
+    color: #747272;
+    text-align: left;
+}
+.p2{
+    color: #fafafa;
+}
+
+.foot{
+   background-color:  #111010;
+}
+
+.foot-head{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: normal;
+}
+.foot-para{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+/* .section-title-foot {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+} */
+.section-title-foot{
+    color: antiquewhite;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
 }
