@@ -4,22 +4,24 @@ body{
 }
 
 .header{
+    padding-bottom: 0px;
     background-color: rgba(229, 84, 115, 0.10);
 }
 
 .banner{
-   
     display: flex;
     align-items: center;
  
 }
 
 .banner-content{
+    
     padding-left: 120px;
 }
 
 
 .banner-heading{
+    padding-top: 130px;
     margin-bottom: 32px;
     color: #272727;
     font-size: 60px;
@@ -36,9 +38,18 @@ body{
 }
 
 .flower-one{
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     padding-left: 200px;
     width: 635px;
 }
+.img-f{
+    padding-top: 120px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
 
 .text-primary{
     color: #E55473;
@@ -84,7 +95,7 @@ body{
     text-align: center;
     margin-left: 300px;
     margin-right: 300px;
-    margin-top: 150px;
+    margin-top: 50px;
     
     
 }
@@ -134,7 +145,7 @@ body{
 }
 
 .hot-deal{
-    margin-top: 200px;
+    margin-top: 100px;
     display: flex;
     background-color: rgba(229, 84, 115, 0.05);
 
@@ -172,6 +183,10 @@ body{
     margin-bottom: 100px;
     padding-left: 100px;
 }
+.instagram{
+    padding-right:50px ;
+    margin-bottom: 100px;
+}
 
 .insta-para{
     text-align: center;
@@ -179,7 +194,7 @@ body{
 
 .insta-pic{
     display: flex;
-    padding-left: 75px;
+    padding-left: 44px;
 }
 
 .insta1{
@@ -197,7 +212,7 @@ body{
 
 
 .latest{
-    margin-left: 100px;
+    margin-left: 40px;
     margin-bottom: 50px;
 }
 .deals{
@@ -208,9 +223,6 @@ body{
     height: 450px;
     width: 1440px;
 }
-
-
-
 
 .txt{ 
    
@@ -299,4 +311,58 @@ font-weight: 800;
     text-align: center;
     font-size: 40px;
     font-weight: 600;
+}
+
+.copyright{
+    padding-bottom: 64px;
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+
+
+.little-part{
+    
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-left: 250px;
+    display: flex;
+}
+
+.man{
+    background-color: rgba(39, 39, 39, 0.05);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.ful{
+    background-color: rgba(39, 39, 39, 0.05);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+.call{
+    background-color: rgba(39, 39, 39, 0.05);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+.iman{
+    padding-left: 80px;
+}
+
+.iful{
+    padding-left: 80px;
+}
+
+.icall{
+    padding-right: 0px;
+    padding-left: 20px;
 }
